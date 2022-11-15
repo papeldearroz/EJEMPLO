@@ -1,6 +1,6 @@
 ![ESPCLS6](PI-banner2022.png)
 # PEOYECTO INTEGRADOR I
-Nuestro grupo es ESPCLS6 y somos estudiantes de primer año de la Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial del Instituto Superior Politécnico Córdoba.
+Nuestro grupo es **ESPCLS6** y somos estudiantes de primer año de la Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial del Instituto Superior Politécnico Córdoba.
 
 + Cecilia Espada
 + Luis Siccardi
